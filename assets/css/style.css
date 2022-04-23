@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    top: 3.8em;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.card-title {
+    margin-top: 5%;
+}
+
+.section_skills {
+    margin-top: 6em!important;
+}
+
+#portafolio_img{
+    width: 100%;
+    height: 85%;
+    border-radius: 15px;
+}
+
+
+footer {
+    background-color: #6f42c1;
+}
